@@ -1,3 +1,9 @@
 ### Hi there 👋
 
-Hi, my name is João Neves and I'm a Brazilian fullstack developer. I've been a lawyer since 2014 and a frontend developer since 2020. After a while feeling frustrated about my lawyer career, I started to open my mind to other opportunities. I had some experiences on creating web sites and programming with C++ in my teens (back in 2004) and I remembered it fondly, so after some pondering it became clear to me that I should pursue this as a career. So, back in 2019 I went back into coding, started a bachelor's in System Analysis And Development and decided that it got to be my career. After that, I started to work with JavaScript, Typescript and React for some companies. I love to develop frontend applications but I realized that I'm hungry to be part of business rules and details - I want to know more about the business product and how to achieve company goals - so I started to code in C# and .NET to become a fullstack developer.
+Hello, my name is João Neves, and I am a Brazilian fullstack developer. I started my career as a developer in 2020, working initially as a frontend developer. Since then, I have been involved in various projects using ReactJS, Redux, NextJS, and Typescript. 
+
+This includes the creation of a fintech that assists physical retail companies in accepting the instant payment method PIX. Additionally, I worked on developing a web application for remotely controlling a maintenance robot for electricity distribution stations. 
+
+I also contributed to the Casas Bahia shopping cart (https://www.casasbahia.com.br/), the fourth-largest e-commerce platform in Brazil.
+
+Recognizing the need to understand more about the business rules in which I am involved, I expanded my expertise to backend technologies, particularly NodeJS and .NET (C#).
