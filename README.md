@@ -7,3 +7,5 @@ This includes the creation of a fintech that assists physical retail companies i
 I also contributed to the Casas Bahia shopping cart (https://www.casasbahia.com.br/), the fourth-largest e-commerce platform in Brazil.
 
 Recognizing the need to understand more about the business rules in which I am involved, I expanded my expertise to backend technologies, particularly NodeJS and .NET (C#).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgsneves)](https://github.com/anuraghazra/github-readme-stats)
